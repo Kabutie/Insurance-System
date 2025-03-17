@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324121529928",
+    "project_id": "insurancemgmt-27190",
+    "storage_bucket": "insurancemgmt-27190.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324121529928:android:05547a0f6fdd26c6d7d27d",
+        "android_client_info": {
+          "package_name": "com.example.cars_ms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCpNEcpq8JFoyzQHe1_3775gSUzsFgBTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
